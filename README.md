@@ -8,6 +8,6 @@ A simple scanner which lets you scan a host/system for open ports and find out w
 
 ## Setup:
 * Clone the directory or copy the file over to your local machine
-* Run the file using: python3 %s <ip>
+* Run the file using: python3 %s ip
   
   
