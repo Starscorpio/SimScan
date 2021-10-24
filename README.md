@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://github.com/Starscorpio/360SecMon/blob/main/gifs/360SecMon%20(2).gif" alt="Material Bread logo">
+  <img width="500" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/Blue%20Fire%20Cool%20and%20Funky%20Gaming%20Logo.gif" alt="Material Bread logo">
 </p>
 
 ## Description:
