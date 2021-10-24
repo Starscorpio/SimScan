@@ -1,5 +1,6 @@
-# Simple Network Scanner
-
+<p align="center">
+  <img width="500" src="https://github.com/Starscorpio/360SecMon/blob/main/gifs/360SecMon%20(2).gif" alt="Material Bread logo">
+</p>
 
 ## Description:
 A simple scanner which lets you scan a host/system for open ports and find out which services are running on them.
