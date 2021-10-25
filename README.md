@@ -3,7 +3,10 @@
 </p>
 
 # Overview
-![](https://github.com/Starscorpio/SimScan/blob/main/gifs/Screenshot%202021-10-24%20at%205.51.13%20PM.png)
+<p align="center">
+  <img width="800" src="https://github.com/Starscorpio/SimScan/blob/main/gifs/Screenshot%202021-10-24%20at%205.51.13%20PM.png" alt="Material Bread logo">
+</p>
+
 
 # Description:
 A simple scanner which lets you scan a host/system for open ports and find out which services are running on them.
