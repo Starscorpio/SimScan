@@ -14,7 +14,7 @@ A simple scanner which lets you scan a host/system for open ports and find out w
 # Prerequisities:
 Python | Django
 ------------ | -------------
-![](https://github.com/Starscorpio/360SecMon/blob/main/gifs/Python_final.jpeg =250x250)
+<img src="https://github.com/Starscorpio/360SecMon/blob/main/gifs/Python_final.jpeg" width="200" height="100"> | test
 
 ## Setup:
 * Clone the directory or copy the file over to your local machine
